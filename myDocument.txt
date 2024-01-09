@@ -1,1 +1,2 @@
 Line 1: Learning Git is fun! 
+Line 2: Adding another line of text.
