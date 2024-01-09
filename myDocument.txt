@@ -1,2 +1,4 @@
 Line 1: Learning Git is fun! 
 Line 2: Adding another line of text.
+Line 3: A third line for the beaten;
+Line 4: And a fourth for the damned.
